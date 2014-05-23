@@ -165,7 +165,7 @@
       <groupId>snoozesoft</groupId>
       <artifactId>systray4j</artifactId>
       <version>1.0</version>
-      <scope>compile</scope>
+      <scope>provided</scope>
     </dependency>
     <dependency>
       <groupId>org.tanukisoftware</groupId>
